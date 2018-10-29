@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.cts</groupId>
-	<artifactId>08springboot</artifactId>
+	<artifactId>24_SpringBoot_Assignment1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>08springboot</name>
+	<name>24_SpringBoot_Assignment1</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
